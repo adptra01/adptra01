@@ -27,12 +27,4 @@ I believe that continuous learning is key to facing the ever-evolving challenges
 ## Education
 - **Information Systems**, Universitas Dinamika Bangsa Jambi
 
-## Related Projects
-- [Library Laravel Framework](https://github.com/adptra01/Library-Laravel-Framework): Web-based library information system application using the Laravel framework.
-
-## Contact
-Feel free to reach out to me:
-- **Email**: m.a.syaputra.94@gmail.com
-- **LinkedIn**: [Adi Putra](https://www.linkedin.com/in/adptra01/)
-
 Thank you for visiting my profile!
