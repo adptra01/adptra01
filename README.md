@@ -1,27 +1,32 @@
 ![](https://komarev.com/ghpvc/?username=adptra01&abbreviated=true)
+
 # Adi Putra
 
-## Programmer | Web Developer
+### 💻 Programmer | 🌐 Web Developer
 
-Hello! I am Adi Putra, a Junior Programmer at Thrive, focusing on web application development using the Laravel framework. With a degree in Information Systems from Universitas Dinamika Bangsa Jambi, I have experience in managing and developing various digital platforms. Since 2021, I have been involved in web application development projects, utilizing my skills in HTML, CSS, PHP, Laravel, Tailwind, and Bootstrap to create engaging and efficient solutions.
+Hello and welcome to my GitHub! I’m **Adi Putra**, a passionate Junior Programmer at Thrive, where I specialize in crafting efficient and user-centered web applications with **Laravel**. With a background in **Information Systems** from Universitas Dinamika Bangsa Jambi, I bring a blend of technical expertise and a dedication to continuous learning that drives my work.
 
-I believe that continuous learning is key to facing the ever-evolving challenges of technology. I am open to new opportunities and ready to make significant contributions to every project I undertake. Please check out my projects below and feel free to connect with me!
+Since 2021, I’ve been building and managing various digital solutions using a suite of tools and technologies including **PHP**, **Tailwind CSS**, and **Bootstrap**. I’m always open to new challenges and eager to collaborate on projects that push the boundaries of what technology can achieve.
 
-## Skills
-- Web Development
-- Laravel Framework
-- Tailwind CSS
-- PHP
-- GitHub
-- Database Management
-- JavaScript
-- MySQL
-- Bootstrap
-- Version Control (Git)
+🔗 **Explore my projects below** or feel free to [connect with me!](https://github.com/adptra01)
 
-## Experience
-- **Junior Programmer** at Thrive (Oct 2023 - Present)
-- **Freelancer** (Mar 2023 - May 2023)
-- **Website Development** (Feb 2023 - Mar 2023)
+---
 
-Thank you for visiting my profile!
+## 🛠️ Skills
+- **Frameworks & Libraries:** Laravel, Tailwind CSS, Bootstrap
+- **Languages:** PHP, JavaScript
+- **Web Development:** HTML, CSS
+- **Database Management:** MySQL
+- **Version Control:** Git, GitHub
+- **Other:** API Integration, Debugging, Problem-solving
+
+---
+
+## 💼 Experience
+- **Junior Programmer** at Thrive _(Oct 2023 - Present)_
+- **Freelancer** _(Mar 2023 - May 2023)_
+- **Website Developer** _(Feb 2023 - Mar 2023)_
+
+---
+
+✨ Thank you for visiting my profile! I look forward to connecting and possibly collaborating on innovative projects. 🚀
