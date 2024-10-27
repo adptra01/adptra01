@@ -24,7 +24,4 @@ I believe that continuous learning is key to facing the ever-evolving challenges
 - **Freelancer** (Mar 2023 - May 2023)
 - **Website Development** (Feb 2023 - Mar 2023)
 
-## Education
-- **Information Systems**, Universitas Dinamika Bangsa Jambi
-
 Thank you for visiting my profile!
