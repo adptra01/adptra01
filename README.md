@@ -8,7 +8,7 @@ Hello and welcome to my GitHub! I’m **Adi Putra**, a passionate Junior Program
 
 Since 2021, I’ve been building and managing various digital solutions using a suite of tools and technologies including **PHP**, **Tailwind CSS**, and **Bootstrap**. I’m always open to new challenges and eager to collaborate on projects that push the boundaries of what technology can achieve.
 
-🔗 **Explore my projects below** or feel free to [connect with me!](https://github.com/adptra01)
+🔗 **Explore my projects below** or feel free to [connect with me!](https://wa.me/6282280514945)
 
 ---
 
