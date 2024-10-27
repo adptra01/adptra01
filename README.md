@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=adptra01)
+![](https://komarev.com/ghpvc/?username=adptra01&abbreviated=true)
 # Adi Putra
 
 ## Programmer | Web Developer
