@@ -18,7 +18,7 @@
 > - **Pengembangan Web:** HTML5, CSS3, Responsive Design, Web Accessibility (a11y)
 > - **Manajemen Database:** MySQL, PostgreSQL, MongoDB
 > - **Kontrol Versi:** Git, GitHub, GitLab
-> - **Lainnya:** Integrasi API, Debugging, Pemecahan Masalah, SEO (Optimisasi Mesin Pencari), Pengujian Unit, Agile Development, DevOps, Web Performance Optimization
+> - **Lainnya:** Integrasi API, Debugging, Pemecahan Masalah, SEO (Optimisasi Mesin Pencari), Pengujian Unit, Agile Development, Web Performance Optimization
 > 
 > ---
 > 
